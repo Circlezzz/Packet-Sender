@@ -11,6 +11,10 @@ pip install scapy
 ```
 
 ## Screenshots
+### Sender:
+![Sender](https://github.com/dream-fall/Packet-Sender/raw/master/imgs/sender.png)
+### Capture
+![Capture](https://github.com/dream-fall/Packet-Sender/raw/master/imgs/capture.png)
 
 ## Features
 You can build your own network packets and send it. You can capture packets like WireShark or follow the packet stream you just sent.
